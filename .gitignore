@@ -7,3 +7,8 @@ target/
 
 # Database credentials
 config.properties
+
+# Build / Android
+build/
+.gradle/
+local.properties
